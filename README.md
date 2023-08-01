@@ -1,4 +1,7 @@
 # Mostafa_Ahmed_Hesham_EmbeddedSystems-Diploma
-This Diploma is undersupervision of ENG. Kiroles khalil.  
+Welcome to our open-source repository, supervised by ENG. Kiroles Khalil. All codes here are copyrighted by ENG. Mostafa Ahmed Hesham, available for unrestricted use. Join our collaborative community, explore, and contribute to cutting-edge projects. Let's drive open-source software development together for a better future.  
 
-All the Copyrights of the codes written here goes To ENG. Mostafa Ahmed Hesham and it's open source you can used it as you need.  
+Supervisor: ENG. Kiroles Khalil  
+Copyright Holder: ENG. Mostafa Ahmed Hesham  
+
+Happy coding!
