@@ -5,6 +5,6 @@ Join our collaborative community, explore, and contribute to cutting-edge projec
 Let's drive open-source software development together for a better future.  
 
 Supervisor: ENG.Kiroles Khalil  
-Copyright Holder: ENG.Mostafa Ahmed Hesham  
+Code Copyright Holder: ENG.Mostafa Ahmed Hesham  
 
 Happy coding!
