@@ -10,7 +10,7 @@
 
 int main ()
 {
-	int n,sum=0;
+	int n,sum=1;
 	printf("Enter a number: ");
 	clear;
 	scanf("%d",&n);
@@ -20,8 +20,8 @@ int main ()
 	else
 	{
 		for (int i = 1 ; i <= n ; i++)
-			sum = sum + i;
-		printf("Factorial = %d\n\n",sum);
+			sum = sum * i;
+		printf("Sum = %d\n\n",sum);
 	}
 	return 0;
 }
