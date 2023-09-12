@@ -33,12 +33,20 @@ int main ()
 
 	temp1 = arr[index - 1];
 	temp2 = arr[index];
+
 	for (int i = index-1 ; i < size ; i++)
 	{
 		arr[i+1] = temp1;
 		temp1 = temp2;
 		temp2 = arr[i+2];
 	}
+	
+	/* 
+	Creative way is to poll array from it's end
+    for (int i = size ; i >= index-1 ; i--)
+	    arr[i] = arr[i-1];
+	*/
+
 	arr[index-1] = inserted;
 	for (int i = 0 ; i <= size ; i++)
 		printf("%d ",arr[i]);
