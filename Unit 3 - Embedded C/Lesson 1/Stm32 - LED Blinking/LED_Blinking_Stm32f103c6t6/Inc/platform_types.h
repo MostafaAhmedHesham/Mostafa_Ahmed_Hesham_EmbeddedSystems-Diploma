@@ -41,7 +41,7 @@ typedef volatile unsigned short 	vuint16_t;
 typedef volatile int 				vint32_t;
 typedef volatile unsigned 			vuint32_t;
 
-typedef volatile long 				vint64_t;
-typedef volatile long long 			vuint64_t;
+typedef volatile long long 			vint64_t;
+typedef volatile unsigned long long vuint64_t;
 
 #endif /* PLATFORM_TYPES_H_ */
