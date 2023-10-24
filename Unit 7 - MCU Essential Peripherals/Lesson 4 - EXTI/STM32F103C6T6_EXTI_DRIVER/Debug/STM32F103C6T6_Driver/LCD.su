@@ -1,0 +1,10 @@
+../STM32F103C6T6_Driver/LCD.c:24:6:_delay_ms	24	static
+../STM32F103C6T6_Driver/LCD.c:31:6:LCD_init	8	static
+../STM32F103C6T6_Driver/LCD.c:59:6:LCD_command	16	static
+../STM32F103C6T6_Driver/LCD.c:108:6:LCD_write_char	16	static
+../STM32F103C6T6_Driver/LCD.c:150:6:LCD_write_string	16	static
+../STM32F103C6T6_Driver/LCD.c:156:6:LCD_busy_check	16	static
+../STM32F103C6T6_Driver/LCD.c:261:6:LCD_clear_screen	8	static
+../STM32F103C6T6_Driver/LCD.c:269:6:LCD_GOTO_position	16	static
+../STM32F103C6T6_Driver/LCD.c:283:6:LCD_write_Real_Number	72	static
+../STM32F103C6T6_Driver/LCD.c:300:6:LCD_write_Number	32	static
