@@ -1,0 +1,4 @@
+../Src/main.c:29:6:clock_init	4	static
+../Src/main.c:41:5:main	56	static
+../Src/main.c:105:6:MOSTAFA_UART_CALLBACK	8	static
+../Src/main.c:117:6:MOSTAFA_SPI_CALLBACK	16	static
